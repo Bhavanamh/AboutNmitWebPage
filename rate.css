@@ -1,0 +1,74 @@
+body,html{
+    height:100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+*{
+box-sizing: border-box;
+}
+.bg-image{
+    background-image: url(https://www.google.com/imgres?imgurl=http%3A%2F%2Fadmissionkaro.com%2Fwp-content%2Fuploads%2F2023%2F02%2FManagement-quota-admission-in-Nitte-Meenakshi-Institute-of-Technology.jpg&tbnid=6-HjiBzxUoRHHM&vet=12ahUKEwix4_nyzaCAAxV17zgGHbiCD2YQMygmegUIARDJAg..i&imgrefurl=https%3A%2F%2Fadmissionkaro.com%2Fnitte-meenakshi-institute-of-technology-bangalore-nmit-fee-structure%2F&docid=yEIXO-JXRXF5XM&w=768&h=388&q=nmit%20pics&ved=2ahUKEwix4_nyzaCAAxV17zgGHbiCD2YQMygmegUIARDJAg);
+    filter:blur(8px);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-text{
+    background-color: rgb(0,0,0);
+    background-color: rgb(0,0,0,0.4);
+    color:white;
+    border: 3px solid #f1f1f1;
+    position: absolute;
+    top: 50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    z-index: 2;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    font: 1.5em;
+    text-align: center;
+    text-transform: capitalize;
+}
+form{
+    margin: 0 auto;
+    width: 70%;
+    padding:1px solid #000;
+    border-radius: 1;
+}
+fieldset{
+    border: 1px solid lightgrey;
+   margin: 10px;
+}
+legend{
+    font-weight:700 ;
+}
+div + div{
+    margin: top 1em;
+}
+input,textarea{
+    width: 200px;
+    border:1px solid #999;
+}
+textarea{
+    vertical-align: top;
+    height: 12em ;
+    resize: vertical;
+}
+button{
+    margin:5em ;
+    font-size: 1em;
+    text-decoration: capitalize;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius:2px ;
+}
+#submitbutton{
+    display: flex;
+    justify-content: center;
+}
