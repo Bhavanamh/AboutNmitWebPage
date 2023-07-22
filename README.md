@@ -69,6 +69,7 @@
 ![12](https://github.com/Bhavanamh/AboutNmitWebPage/assets/109859201/280e90f8-0508-4a27-9431-ac6e59ac19ab)
 
 
+#The view of details of nmit when we click aboutus in midle left column frameset. 
 
 ![13](https://github.com/Bhavanamh/AboutNmitWebPage/assets/109859201/7fa2b074-6960-4e20-a0ed-281c76472fb7)
 
