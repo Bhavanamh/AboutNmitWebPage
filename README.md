@@ -73,12 +73,14 @@
 
 ![13](https://github.com/Bhavanamh/AboutNmitWebPage/assets/109859201/7fa2b074-6960-4e20-a0ed-281c76472fb7)
 
+#The view of courses offered by  nmit when we click courses in midle left column frameset. 
 
 ![14](https://github.com/Bhavanamh/AboutNmitWebPage/assets/109859201/956d5d0b-9759-48a5-a815-00492709dc62)
 
-
+#The view of feedback form  of nmit when we click feedbackform in midle left column frameset. 
 ![15](https://github.com/Bhavanamh/AboutNmitWebPage/assets/109859201/084e4ea8-5584-44df-ad1f-648d66d7e473)
 
+#The view of details of nmit helpline when we click contact in midle left column frameset. 
 ![16](https://github.com/Bhavanamh/AboutNmitWebPage/assets/109859201/51974b86-c82b-4da0-ad65-3ead8e8bb91b)
 
 
