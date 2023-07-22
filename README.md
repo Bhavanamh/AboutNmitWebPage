@@ -10,7 +10,7 @@ To view the courses that nmit offerse in batchelor of technology degree by click
 Same you can submit feedback form by clicking feedback form hiper link.
 Further query you can contact to nmit helpline by clicking contact hiperlink.
 
-#input
+#input:these are the images i used while  creating the webpages.
 
 #Header left part nmit logo
 
@@ -65,7 +65,7 @@ Further query you can contact to nmit helpline by clicking contact hiperlink.
 
 
 
-#Output
+#Output: The view of this webpage
 
 
 #The View of Home page in middle left column frameset when we open the webpage.
