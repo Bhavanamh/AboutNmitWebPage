@@ -2,11 +2,13 @@
 
 #input
 
+//Header left part nmit logo
 ![NMITLOGO](https://github.com/Bhavanamh/AboutNmitWebPage/assets/109859201/b09ec5ac-b6e3-471f-99b1-affbd0d3b9bb)
 
-
+//background image for midle framework
 ![nmitCampus1](https://github.com/Bhavanamh/AboutNmitWebPage/assets/109859201/5293eb82-89d0-4ab6-ace5-1b18d0f5e80f)
 
+//Images Related to nmit 
 ![th](https://github.com/Bhavanamh/AboutNmitWebPage/assets/109859201/0c37f638-a349-43bd-85e7-a0d982cf0190)
 
 
