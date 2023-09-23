@@ -1,7 +1,7 @@
 # AboutNmitWebPage:Here i created the static college website named About NmitWeb page using html ,css and javascript . 
 when you click on index.html file in your browser it will take you to home page of the webpage.There in left frame you can see many options:Home,About us,courses,feedback form,and contact details.
 
-when you click on home page it will take you to the home page which display the our college photo and moving text containing our college name and one hiperlink when you click on that hiper link named click it will take you to about us page.
+when you click on home page it will take you to the home page which display the our college photo and moving text containing our college name and one hyperlink when you click on that hyper link named click it will take you to about us page.
 
 You can directly go to about us web page by directly clicking about us in left frame set.
 
